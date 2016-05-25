@@ -1,0 +1,83 @@
+{
+	"meta": {
+		"title": "Web hosting solutions",
+		"favicon": "app/assets/images/icons/social/icon-finix.png",
+		"description": "Description",
+		"keywords": "keywords",
+		"author": "Richard Smith"
+	},
+	"company": "North State Consulting",
+	"type": "",
+	"logo": "assets/images/logo.png",
+	"cta": "123-456-7890",
+	"contacts": [
+		{
+			"type": "email",
+			"info": "jjefferson@northstateco.com",
+			"method": "mailto:"
+		},
+		{
+			"type": "phone",
+			"info": "123-456-7890",
+			"method": "tel:"
+		}
+	],
+	"locations": [
+		{
+			"address": {
+				"street": "",
+				"city": "",
+				"state": "CA",
+				"zip": ""
+			},
+			"map": ""
+		}
+	],
+	"socials": [
+		{
+			"name": "facebook",
+			"link": "www.facebook.com/",
+			"active": false
+		},
+		{
+			"name": "twitter",
+			"link": "twitter.com/",
+			"active": false
+		},
+		{
+			"name": "linkedin",
+			"link": "www.linkedin.com/company/",
+			"active": false
+		},
+		{
+			"name": "google+",
+			"link": "plus.google.com/+",
+			"active": false
+		},
+		{
+			"name": "youtube",
+			"link": "",
+			"active": false
+		},
+		{
+			"name": "instagram",
+			"link": "www.instagram.com/",
+			"active": false
+		},
+		{
+			"name": "pinterest",
+			"link": "www.pinterest.com/",
+			"active": false
+		},
+		{
+			"name": "tumblr",
+			"link": "www.tumblr.com",
+			"active": false
+		},
+		{
+			"name": "yelp",
+			"link": "www.yelp.com",
+			"active": false
+		}
+	]
+}

@@ -1,0 +1,20 @@
+[
+	{
+		"config": {
+			"title": "signup",
+			"type": "page"
+		},
+		"contents": [
+			{
+				"config": {
+					"type": "typeform",
+					"title": "signup",
+					"class": "form",
+					"size": "",
+					"src": "https://finixcreative.typeform.com/to/uMQRIG"
+				},
+				"contents": null
+			}
+		]
+	}
+]
