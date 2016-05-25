@@ -1,0 +1,727 @@
+[
+	{
+		"config": {
+			"title": "home",
+			"type": "page"
+		},
+		"contents": [
+			{
+				"config": {
+					"type": "slideshow",
+					"class": "",
+					"size": "full",
+					"bg": {
+						"color": "#ccc"
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "slide",
+							"class": {
+								"outer": "white-txt",
+								"inner": "pad-100-20 center"
+							},
+							"size": "full",
+							"animation": "",
+							"bg": {
+								"img": "http://i.imgur.com/gjxFlQ1.gif",
+								"color": "#f52",
+								"size": "cover",
+								"repeat": "no-repeat",
+								"position": "",
+								"attachment": "fixed",
+								"opacity": 0.7,
+								"parallax": 0.2
+							}
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "app/assets/images/icons/finix-logo.png",
+									"alt": "Finix logo"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h1",
+									"text": "Web development solved"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "We're on a mission to help you reach more customers. We offer web development, digital marketing, and design services to improve your online presence and build brand loyalty."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "block",
+									"class": "pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "button",
+											"id": "",
+											"class": "center pad",
+											"size": "",
+											"name": "",
+											"buttontype": "",
+											"value": "",
+											"form": "",
+											"click": "",
+											"text": "Get started",
+											"link": "#/signup",
+											"target": ""
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "slide",
+							"class": {
+								"outer": "white-txt",
+								"inner": "pad-100-20 center"
+							},
+							"size": "full",
+							"animation": "",
+							"bg": {
+								"img": "app/assets/images/backgrounds/web-bg-bw.png",
+								"color": "#099",
+								"size": "cover",
+								"repeat": "no-repeat",
+								"position": "",
+								"attachment": "fixed",
+								"opacity": 0.7,
+								"parallax": 0.2
+							}
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "app/assets/images/icons/web-icon.png",
+									"alt": "Web icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h1",
+									"text": "Web Design"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Open your online store! Every business needs a great website to succeed. We build amazing websites that look beaufitul on every device, so you can attract new customers!"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "block",
+									"class": "pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "button",
+											"id": "",
+											"class": "center pad",
+											"size": "",
+											"name": "",
+											"buttontype": "",
+											"value": "",
+											"form": "",
+											"click": "",
+											"text": "Get started",
+											"link": "#/web",
+											"target": ""
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "slide",
+							"class": {
+								"outer": "white-txt",
+								"inner": "pad-100-20 center"
+							},
+							"size": "full",
+							"animation": "",
+							"bg": {
+								"img": "app/assets/images/backgrounds/brand-bg-bw.png",
+								"color": "#f91",
+								"size": "cover",
+								"repeat": "no-repeat",
+								"position": "",
+								"attachment": "fixed",
+								"opacity": 0.7,
+								"parallax": 0.2
+							}
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "app/assets/images/icons/brand-icon.png",
+									"alt": "Brand icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h1",
+									"text": "Branding"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Stand out from the crowd! Your brand is more than just a logo, it's the face of your business. Great brands are built from the ground up, and that's the same approach we take."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "block",
+									"class": "pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "button",
+											"id": "",
+											"class": "center pad",
+											"size": "",
+											"name": "",
+											"buttontype": "",
+											"value": "",
+											"form": "",
+											"click": "",
+											"text": "Get started",
+											"link": "#/brand",
+											"target": ""
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "slide",
+							"class": {
+								"outer": "white-txt",
+								"inner": "pad-100-20 center"
+							},
+							"size": "full",
+							"animation": "",
+							"bg": {
+								"img": "app/assets/images/backgrounds/email-bg-bw.png",
+								"color": "#54c",
+								"size": "cover",
+								"repeat": "no-repeat",
+								"position": "",
+								"attachment": "fixed",
+								"opacity": 0.7,
+								"parallax": 0.2
+							}
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "app/assets/images/icons/email-icon.png",
+									"alt": "Email icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h1",
+									"text": "Email Marketing"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Email marketing is a great way to build customer loyalty. We design email campaigns to sell your products and services, promote special offers or events, and build customer loyalty."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "block",
+									"class": "pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "button",
+											"id": "",
+											"class": "center pad",
+											"size": "",
+											"name": "",
+											"buttontype": "",
+											"value": "",
+											"form": "",
+											"click": "",
+											"text": "Get started",
+											"link": "#/email",
+											"target": ""
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "slide",
+							"class": {
+								"outer": "white-txt",
+								"inner": "pad-100-20 center"
+							},
+							"size": "full",
+							"animation": "",
+							"bg": {
+								"img": "app/assets/images/backgrounds/print-bg-bw.png",
+								"color": "#3b4",
+								"size": "cover",
+								"repeat": "no-repeat",
+								"position": "",
+								"attachment": "fixed",
+								"opacity": 0.7,
+								"parallax": 0.2
+							}
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "app/assets/images/icons/print-icon.png",
+									"alt": "Print icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h1",
+									"text": "Print Marketing"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Printed marketing materials are the fastest way to expand your local customer base. We make eye-catching designs for everything from business cards to billboards, so you'll always make a great impression."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "block",
+									"class": "pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "button",
+											"id": "",
+											"class": "center pad",
+											"size": "",
+											"name": "",
+											"buttontype": "",
+											"value": "",
+											"form": "",
+											"click": "",
+											"text": "Get started",
+											"link": "#/print",
+											"target": ""
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "slide",
+							"class": {
+								"outer": "white-txt",
+								"inner": "pad-100-20 center"
+							},
+							"size": "full",
+							"animation": "",
+							"bg": {
+								"img": "app/assets/images/backgrounds/social-bg-bw.png",
+								"color": "#07b",
+								"size": "cover",
+								"repeat": "no-repeat",
+								"position": "",
+								"attachment": "fixed",
+								"opacity": 0.7,
+								"parallax": 0.2
+							}
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "center",
+									"size": "",
+									"src": "app/assets/images/icons/social-icon.png",
+									"alt": "Social icon"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "h1",
+									"text": "Social Media Marketing"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Social Media is the fastest way to connect with new customers and build loyalty for your brand. We design social media pages customized for your brand, including automated posts to engage your followers."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "block",
+									"class": "pad",
+									"size": "full"
+								},
+								"contents": [
+									{
+										"config": {
+											"type": "button",
+											"id": "",
+											"class": "center pad",
+											"size": "",
+											"name": "",
+											"buttontype": "",
+											"value": "",
+											"form": "",
+											"click": "",
+											"text": "Get started",
+											"link": "#/social",
+											"target": ""
+										},
+										"contents": null
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "pad-40-20"
+					},
+					"bg": {
+						"img": "",
+						"color": "#fff",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"opacity": 0,
+						"parallax": null
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "h3",
+							"text": "The future of web development"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h4",
+							"text": "Easily build web pages & manage content"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "Finix web tools are the ultimate resource for powerful, flexible, and intuitive software development and content management. Make a website, app, or blog in minutes with a custom design and your own content. Stop wasting hours writing code or limiting your design options with a template-based content management platform."
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "button",
+							"id": "",
+							"class": "center pad",
+							"size": "",
+							"name": "",
+							"buttontype": "",
+							"value": "",
+							"form": "",
+							"click": "",
+							"text": "Learn more",
+							"link": "#/about",
+							"target": ""
+						},
+						"contents": null
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "white-txt"
+					},
+					"bg": {
+						"img": "https://pixabay.com/static/uploads/photo/2015/12/14/23/42/wood-1093427_960_720.jpg",
+						"color": "#000",
+						"size": "cover",
+						"repeat": "no-repeat",
+						"position": "",
+						"attachment": "fixed",
+						"opacity": 0.2,
+						"parallax": 0.8
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"id": "",
+							"class": "pad",
+							"size": "quarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "white-bg circle",
+									"size": "full",
+									"src": "https://pixabay.com/static/uploads/photo/2015/11/19/05/14/gorilla-1050384_960_720.png",
+									"alt": "Gorilla"							
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"id": "",
+							"class": "pad",
+							"size": "threequarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Storytelling at it's finest!"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Q: What do you get when you cross a gorilla and a computer?"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "A: Hairy Reasoner."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Try it now",
+									"link": "#/hydra",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": ""
+					},
+					"bg": {
+						"img": "",
+						"color": "#fff",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 1
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"id": "",
+							"class": "pad",
+							"size": "threequarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "No kidding..."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Q: How many Microsoft engineers does it take to screw in a light bulb?"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "A: None. They would just declare darkness the new standard™"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Try it now",
+									"link": "#/hydra",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"id": "",
+							"class": "pad",
+							"size": "quarter"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "",
+									"size": "full",
+									"src": "http://cbri.com/wp-content/uploads/2012/02/risk-management-safety.png",
+									"alt": "Burned out lightbulb"							
+								},
+								"contents": null
+							}					
+						]
+					}
+				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "pad"
+					},
+					"bg": {
+						"img": "",
+						"color": "#f3f3f3",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"parallax": 1
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "video",
+							"class": "middle",
+							"size": "full",
+							"format": "mp4",
+							"src": "",
+							"poster": ""
+						},
+						"contents": null
+					}
+				]
+			}
+		]
+	}
+]
