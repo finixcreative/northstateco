@@ -7,7 +7,5 @@ angular.module('finixApp', [
 	'hydraMod',
 	'angular-parallax',
 	'slidesMod',
-	'ngResource',
-	'panelMod',
-	'productsMod'
+	'ngResource'
 ]);
