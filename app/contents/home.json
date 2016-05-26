@@ -9,8 +9,8 @@
 				"config": {
 					"type": "row",
 					"class": {
-						"outer": "white-txt",
-						"inner": "pad-200-20-120 center"
+						"outer": "",
+						"inner": "white-txt center pad-200-20-120"
 					},
 					"bg": {
 						"img": "http://i.imgur.com/gjxFlQ1.gif",
