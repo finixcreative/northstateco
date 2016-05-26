@@ -2,7 +2,7 @@
 --------------------------
 BRAND GUIDE
 --------------------------
-Primary Color    | #0387ab
+Primary Color    | #075
 Secondary Color  | #75bbce
 Red			     | #d95251
 Yellow		     | #f5c83d
@@ -13,7 +13,7 @@ Dark Gray	     | #222
 */
 
 .primary-bg {
-	background: #f52;
+	background: #075;
 }
 .primary-txt {
 	color: #0387ab;
@@ -269,7 +269,7 @@ button {
 	transition: all .3s ease-in;
 }
 button:hover {
-	color: #f52;
+	color: #075;
 	box-shadow: 0px 1px 1px 1px rgba(0,0,0,0.3);
 }
 header {
@@ -298,8 +298,8 @@ header nav a {
 	display: block;
 }
 header nav li a:hover {
-	color: #f52;
-	border-bottom: 4px solid #f52;
+	color: #075;
+	border-bottom: 4px solid #075;
 }
 header nav li ul.menu {
 	width: 100%;
@@ -632,7 +632,7 @@ footer a {
 }
 footer a:hover,
 footer p a:hover {
-	color: #f52;
+	color: #075;
 }
 footer p a {
 	font-weight: 300;
