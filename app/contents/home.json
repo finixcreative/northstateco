@@ -7,84 +7,70 @@
 		"contents": [
 			{
 				"config": {
-					"type": "slideshow",
-					"class": "",
-					"size": "full",
+					"type": "row",
+					"class": {
+						"outer": "white-txt",
+						"inner": "pad-100-20 center"
+					},
 					"bg": {
-						"color": "#ccc"
+						"img": "http://i.imgur.com/gjxFlQ1.gif",
+						"color": "#075",
+						"size": "cover",
+						"repeat": "no-repeat",
+						"position": "",
+						"attachment": "fixed",
+						"opacity": 0.5,
+						"parallax": 0.2
 					}
 				},
 				"contents": [
 					{
 						"config": {
-							"type": "slide",
-							"class": {
-								"outer": "white-txt",
-								"inner": "pad-100-20 center"
-							},
-							"size": "full",
-							"animation": "",
-							"bg": {
-								"img": "http://i.imgur.com/gjxFlQ1.gif",
-								"color": "#006837",
-								"size": "cover",
-								"repeat": "no-repeat",
-								"position": "",
-								"attachment": "fixed",
-								"opacity": 0.5,
-								"parallax": 0.2
-							}
+							"type": "image",
+							"class": "center",
+							"size": "",
+							"src": "client/images/nsc-logo.png",
+							"alt": "North State Consulting logo"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "h1",
+							"text": "North State Consulting"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "p",
+							"text": "Custom web hosting solutions and consulting services for businesses of all sizes"
+						},
+						"contents": null
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad",
+							"size": "full"
 						},
 						"contents": [
 							{
 								"config": {
-									"type": "image",
-									"class": "center",
+									"type": "button",
+									"id": "",
+									"class": "center pad",
 									"size": "",
-									"src": "client/images/nsc-logo.png",
-									"alt": "North State Consulting logo"
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Get started",
+									"link": "#/signup",
+									"target": ""
 								},
 								"contents": null
-							},
-							{
-								"config": {
-									"type": "h1",
-									"text": "North State Consulting"
-								},
-								"contents": null
-							},
-							{
-								"config": {
-									"type": "p",
-									"text": "Custom web hosting solutions and consulting services for businesses of all sizes"
-								},
-								"contents": null
-							},
-							{
-								"config": {
-									"type": "block",
-									"class": "pad",
-									"size": "full"
-								},
-								"contents": [
-									{
-										"config": {
-											"type": "button",
-											"id": "",
-											"class": "center pad",
-											"size": "",
-											"name": "",
-											"buttontype": "",
-											"value": "",
-											"form": "",
-											"click": "",
-											"text": "Get started",
-											"link": "#/signup",
-											"target": ""
-										},
-										"contents": null
-									}
-								]
 							}
 						]
 					}
