@@ -216,6 +216,66 @@
 						]
 					}
 				]
+			},
+			{
+				"config": {
+					"type": "row",
+					"class": {
+						"outer": "",
+						"inner": "pad-20"
+					},
+					"bg": {
+						"img": "",
+						"color": "#f3f3f3",
+						"size": "",
+						"repeat": "",
+						"position": "",
+						"attachment": "",
+						"opacity": 0,
+						"parallax": null
+					}
+				},
+				"contents": [
+					{
+						"config": {
+							"type": "block",
+							"class": "",
+							"size": "twothird"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Launch your website today!"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, aenean elit magna cursus pulvinar vel sollicitudin, et tortor in, dolor dapibus fringilla."
+								},
+								"contents": null
+							}
+						]
+					},
+					{
+						"config": {
+							"type": "block",
+							"class": "pad-20 primary-bg white-txt",
+							"size": "third"
+						},
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Contact Form"
+								},
+								"contents": null
+							}
+						]
+					}
+				]
 			}
 		]
 	}
