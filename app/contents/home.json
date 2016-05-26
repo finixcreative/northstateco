@@ -67,7 +67,7 @@
 									"form": "",
 									"click": "",
 									"text": "Get started",
-									"link": "#/signup",
+									"link": "#",
 									"target": ""
 								},
 								"contents": null
@@ -128,7 +128,7 @@
 							"form": "",
 							"click": "",
 							"text": "Learn more",
-							"link": "#/about",
+							"link": "#",
 							"target": ""
 						},
 						"contents": null
