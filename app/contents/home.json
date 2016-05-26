@@ -10,7 +10,7 @@
 					"type": "row",
 					"class": {
 						"outer": "white-txt",
-						"inner": "pad-100-20 center"
+						"inner": "pad-200-20-120 center"
 					},
 					"bg": {
 						"img": "http://i.imgur.com/gjxFlQ1.gif",
