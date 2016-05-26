@@ -222,7 +222,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "pad-20-0"
+						"inner": "pad-20"
 					},
 					"bg": {
 						"img": "",
@@ -239,7 +239,7 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "pad-20",
+							"class": "pad-20-0",
 							"size": "half"
 						},
 						"contents": [
