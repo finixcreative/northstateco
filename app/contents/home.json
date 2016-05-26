@@ -81,7 +81,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "pad-40-20"
+						"inner": "pad-20-0 center"
 					},
 					"bg": {
 						"img": "",
@@ -97,41 +97,123 @@
 				"contents": [
 					{
 						"config": {
-							"type": "h3",
-							"text": "The future of web development"
+							"type": "block",
+							"class": "pad-20",
+							"size": "third"
 						},
-						"contents": null
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Hosting"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, aenean elit magna cursus pulvinar vel sollicitudin, et tortor in, dolor dapibus fringilla."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
 					},
 					{
 						"config": {
-							"type": "h4",
-							"text": "Easily build web pages & manage content"
+							"type": "block",
+							"class": "pad-20",
+							"size": "third"
 						},
-						"contents": null
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Support"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, aenean elit magna cursus pulvinar vel sollicitudin, et tortor in, dolor dapibus fringilla."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
 					},
 					{
 						"config": {
-							"type": "p",
-							"text": "Finix web tools are the ultimate resource for powerful, flexible, and intuitive software development and content management. Make a website, app, or blog in minutes with a custom design and your own content. Stop wasting hours writing code or limiting your design options with a template-based content management platform."
+							"type": "block",
+							"class": "pad-20",
+							"size": "third"
 						},
-						"contents": null
-					},
-					{
-						"config": {
-							"type": "button",
-							"id": "",
-							"class": "center pad",
-							"size": "",
-							"name": "",
-							"buttontype": "",
-							"value": "",
-							"form": "",
-							"click": "",
-							"text": "Learn more",
-							"link": "#",
-							"target": ""
-						},
-						"contents": null
+						"contents": [
+							{
+								"config": {
+									"type": "h3",
+									"text": "Security"
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "p",
+									"text": "Lorem ipsum dolor sit amet, aenean elit magna cursus pulvinar vel sollicitudin, et tortor in, dolor dapibus fringilla."
+								},
+								"contents": null
+							},
+							{
+								"config": {
+									"type": "button",
+									"id": "",
+									"class": "center pad",
+									"size": "",
+									"name": "",
+									"buttontype": "",
+									"value": "",
+									"form": "",
+									"click": "",
+									"text": "Learn more",
+									"link": "#",
+									"target": ""
+								},
+								"contents": null
+							}
+						]
 					}
 				]
 			}
