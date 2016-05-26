@@ -3,7 +3,7 @@
 BRAND GUIDE
 --------------------------
 Primary Color    | #075
-Secondary Color  | #75bbce
+Secondary Color  | #086
 Red			     | #d95251
 Yellow		     | #f5c83d
 Light Gray		 | #f3f3f3
@@ -16,13 +16,13 @@ Dark Gray	     | #222
 	background: #075;
 }
 .primary-txt {
-	color: #0387ab;
+	color: #075;
 }
 .secondary-bg {
-	background: #75bbce;
+	background: #086;
 }
 .secondary-txt {
-	color: #75bbce;
+	color: #086;
 }
 .yellow-bg {
 	background: #f5c83d;
@@ -60,7 +60,7 @@ Dark Gray	     | #222
 .white-bg a,
 .lightgray-bg a,
 .midgray-bg a {
-	color: #0387ab;
+	color: #075;
 }
 .darkgray-bg > a {
 	color: #fff;
@@ -69,17 +69,17 @@ Dark Gray	     | #222
 .lightgray-bg a:hover,
 .midgray-bg a:hover,
 .darkgray-bg a:hover {
-	color: #75bbce;
+	color: #086;
 }
 .white-bg p a,
 .lightgray-bg p a,
 .midgray-bg p a {
-	border-bottom: 1px solid #0387ab;
+	border-bottom: 1px solid #075;
 }
 .white-bg p a:hover,
 .lightgray-bg p a:hover,
 .midgray-bg p a:hover {
-	border-bottom: 1px solid #75bbce;
+	border-bottom: 1px solid #086;
 }
 .row,
 .slideshow {
@@ -298,8 +298,15 @@ header nav a {
 	display: block;
 }
 header nav li a:hover {
+	color: #fff;
+	border-bottom: 4px solid #fff;
+}
+header.white-bg nav li a {
 	color: #075;
-	border-bottom: 4px solid #075;
+}
+header.white-bg nav li a:hover {
+	color: #086;
+	border-bottom: 4px solid #086;
 }
 header nav li ul.menu {
 	width: 100%;
@@ -346,10 +353,10 @@ header nav li ul.menu li a:hover {
 	background-size: 44px 40px;
 }
 .nav-cta a {
-	background: #0387ab;
+	background: #075;
 }
 .nav-cta a:hover {
-	background: #75bbce;
+	background: #086;
 }
 .nav-cta:hover > a,
 .menu-button:hover > a {
@@ -477,15 +484,15 @@ header nav li ul.menu li a:hover {
 }
 .hero .button:hover {
 	background: #fff;
-	color: #75bbce;
+	color: #086;
 }
 .button-body {
-	background: #0387ab;
+	background: #075;
 	color: #fff !important;
 	border: none;
 }
 .button-body:hover {
-	background: #75bbce;
+	background: #086;
 	color: #fff !important;
 	border: none;
 }
@@ -529,10 +536,10 @@ header nav li ul.menu li a:hover {
 	transition: none;
 }
 .slide p a {
-	border-bottom: 1px solid #0387ab;
+	border-bottom: 1px solid #075;
 }
 .slide p a:hover {
-	border-bottom: 1px solid #75bbce;
+	border-bottom: 1px solid #086;
 }
 .slide p.nav-pills a {
 	background: #f3f3f3;
@@ -650,13 +657,13 @@ footer .social li {
 	float: left;
 }
 footer .social li a {
-	background: #0387ab;
+	background: #075;
 	border-radius: 5px;
 	float: left;
 	display: inline-block;
 }
 footer .social li a:hover {
-	background: #75bbce;
+	background: #086;
 	color: #fff;
 }
 footer .social li a img {
