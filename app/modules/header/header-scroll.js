@@ -1,3 +1,15 @@
+// var mainbottom = $('#main').offset().top + $('#main').height();
+function headerScroll(){
+	$(window).on('scroll',function(){
+		distance = Math.round($(window).scrollTop());
+		if (distance > 0) {
+			$('header').addClass('white-bg');
+		} else {
+			$('header').removeClass('white-bg');
+		}
+	});
+};
+/*
 window.onscroll = function(){
 	headerScroll();
 };
@@ -8,3 +20,4 @@ function headerScroll(){
 		document.getElementsByTagName("header").className = "";
 	}
 };
+*/
