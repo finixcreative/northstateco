@@ -222,7 +222,7 @@
 					"type": "row",
 					"class": {
 						"outer": "",
-						"inner": "pad-20"
+						"inner": "pad-20-0"
 					},
 					"bg": {
 						"img": "",
@@ -239,7 +239,7 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "pad-20-0",
+							"class": "pad-20",
 							"size": "half"
 						},
 						"contents": [
@@ -262,16 +262,25 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "pad-20 primary-bg white-txt",
+							"class": "pad-20",
 							"size": "half"
 						},
 						"contents": [
 							{
 								"config": {
-									"type": "h3",
-									"text": "Contact Form"
+									"type": "block",
+									"class": "pad-20 primary-bg white-txt",
+									"size": "half"
 								},
-								"contents": null
+								"contents": [
+									{
+										"config": {
+											"type": "h3",
+											"text": "Contact Form"
+										},
+										"contents": null
+									}
+								]
 							}
 						]
 					}
