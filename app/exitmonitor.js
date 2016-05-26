@@ -1,11 +1,13 @@
 window.onload = function(){
 	var exitCount,
 		template,
+		enabled,
 		exitMonitor;
 	exitCount = 0;
+	enabled = false;
 	template = "<div id='exitmonitor' class='configpanel white-txt pad-150-20 center full'><h3>Wait up!</h3><button id='dismiss' class='pad-20'>Nah...</button></div>";
 	exitMonitor = function(){
-		if(exitCount === 0){
+		if(exitCount === 0 && enabled){
 			$('#content').prepend(template);
 			exitMonitorDismiss();
 			exitCount++;
