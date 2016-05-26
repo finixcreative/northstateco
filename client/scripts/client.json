@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "Web hosting solutions",
-		"favicon": "app/assets/images/icons/social/icon-finix.png",
+		"favicon": "client/images/nsc-favicon.png",
 		"description": "Description",
 		"keywords": "keywords",
 		"author": "Richard Smith"
