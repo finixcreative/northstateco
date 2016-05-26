@@ -270,7 +270,7 @@
 								"config": {
 									"type": "block",
 									"class": "pad-20 primary-bg white-txt",
-									"size": "half"
+									"size": "full"
 								},
 								"contents": [
 									{
