@@ -115,23 +115,6 @@
 									"text": "Lorem ipsum dolor sit amet, aenean elit magna cursus pulvinar vel sollicitudin, et tortor in, dolor dapibus fringilla."
 								},
 								"contents": null
-							},
-							{
-								"config": {
-									"type": "button",
-									"id": "",
-									"class": "center pad",
-									"size": "",
-									"name": "",
-									"buttontype": "",
-									"value": "",
-									"form": "",
-									"click": "",
-									"text": "Learn more",
-									"link": "#",
-									"target": ""
-								},
-								"contents": null
 							}
 						]
 					},
@@ -155,23 +138,6 @@
 									"text": "Lorem ipsum dolor sit amet, aenean elit magna cursus pulvinar vel sollicitudin, et tortor in, dolor dapibus fringilla."
 								},
 								"contents": null
-							},
-							{
-								"config": {
-									"type": "button",
-									"id": "",
-									"class": "center pad",
-									"size": "",
-									"name": "",
-									"buttontype": "",
-									"value": "",
-									"form": "",
-									"click": "",
-									"text": "Learn more",
-									"link": "#",
-									"target": ""
-								},
-								"contents": null
 							}
 						]
 					},
@@ -193,23 +159,6 @@
 								"config": {
 									"type": "p",
 									"text": "Lorem ipsum dolor sit amet, aenean elit magna cursus pulvinar vel sollicitudin, et tortor in, dolor dapibus fringilla."
-								},
-								"contents": null
-							},
-							{
-								"config": {
-									"type": "button",
-									"id": "",
-									"class": "center pad",
-									"size": "",
-									"name": "",
-									"buttontype": "",
-									"value": "",
-									"form": "",
-									"click": "",
-									"text": "Learn more",
-									"link": "#",
-									"target": ""
 								},
 								"contents": null
 							}
