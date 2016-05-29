@@ -372,10 +372,10 @@ header nav li ul.menu li a:hover {
 	color: #fff !important;
 }
 .cta-button a {
-	color: #fff;
+	color: #fff !important;
 }
 .cta-button a:hover {
-	color: #fff;
+	color: #fff !important;
 }
 .menu-button img {
 	width: 40px;
