@@ -363,6 +363,20 @@ header nav li ul.menu li a:hover {
 	color: #fff;
 	border: none;
 }
+.cta-button {
+	background: #075 !important;
+	color: #fff !important;
+}
+.cta-button:hover {
+	background: #086 !important;
+	color: #fff !important;
+}
+.cta-button a {
+	color: #fff;
+}
+.cta-button a:hover {
+	color: #fff;
+}
 .menu-button img {
 	width: 40px;
 	height: 36px;
