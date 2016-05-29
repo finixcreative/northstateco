@@ -299,14 +299,12 @@ header nav a {
 }
 header nav li a:hover {
 	color: #fff;
-	border-bottom: 4px solid #fff;
 }
 header.white-bg nav li a {
 	color: #075;
 }
 header.white-bg nav li a:hover {
 	color: #086;
-	border-bottom: 4px solid #086;
 }
 header nav li ul.menu {
 	width: 100%;
