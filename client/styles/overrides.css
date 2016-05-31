@@ -209,6 +209,9 @@ Dark Gray	     | #222
 .codebox {
 	word-break: break-all;
 }
+.border-2px-444 {
+	border: 2px solid #444;
+}
 * {
 	box-sizing: border-box;
 }

@@ -104,6 +104,16 @@
 						"contents": [
 							{
 								"config": {
+									"type": "image",
+									"class": "circle border-2px-444",
+									"size": "",
+									"src": "client/images/nsc-icon-hosting.png",
+									"alt": "Hosting"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "h3",
 									"text": "Hosting"
 								},
@@ -127,6 +137,16 @@
 						"contents": [
 							{
 								"config": {
+									"type": "image",
+									"class": "circle border-2px-444",
+									"size": "",
+									"src": "client/images/nsc-icon-security.png",
+									"alt": "Security"
+								},
+								"contents": null
+							},
+							{
+								"config": {
 									"type": "h3",
 									"text": "Security"
 								},
@@ -148,6 +168,16 @@
 							"size": "third"
 						},
 						"contents": [
+							{
+								"config": {
+									"type": "image",
+									"class": "circle border-2px-444",
+									"size": "",
+									"src": "client/images/nsc-icon-support.png",
+									"alt": "Support"
+								},
+								"contents": null
+							},
 							{
 								"config": {
 									"type": "h3",
