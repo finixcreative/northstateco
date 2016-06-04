@@ -67,7 +67,7 @@
 									"form": "",
 									"click": "",
 									"text": "Get started",
-									"link": "/#home-contact",
+									"link": "#/home#home-contact",
 									"target": ""
 								},
 								"contents": null
