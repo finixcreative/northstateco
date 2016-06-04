@@ -254,8 +254,14 @@
 								"contents": [
 									{
 										"config": {
-											"type": "h3",
-											"text": "Contact Form"
+											"type": "form-contact",
+											"id": "home-contact",
+											"class": "pad-20",
+											"size": "full",
+											"action": "mailto:",
+											"email": "jjefferson@northstateco.com",
+											"method": "post",
+											"enctype": "text/plain"
 										},
 										"contents": null
 									}

@@ -1,0 +1,14 @@
+<form
+	id="{{content.config.id}}"
+	class="{{content.config.class}} {{content.config.size}}"
+	action="{{content.config.action}}{{content.config.email}}"
+	method="{{content.config.method}}"
+	enctype="{{content.config.enctype}}"
+>
+	<h3>Contact us</h3>
+	<input type="text" name="name">
+	<input type="email" name="email">
+	<input type="tel" name="phone">
+	<input type="textarea" name="message">
+	<button type="submit" form="{{content.config.id}}" value="Submit">Send</button>
+</form>
