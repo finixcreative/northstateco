@@ -241,31 +241,22 @@
 					{
 						"config": {
 							"type": "block",
-							"class": "pad-20 center",
+							"class": "pad-20",
 							"size": "half"
 						},
 						"contents": [
 							{
 								"config": {
-									"type": "block",
-									"class": "pad-20 primary-bg white-txt",
-									"size": "full"
+									"type": "form-contact",
+									"id": "home-contact",
+									"class": "primary-bg white-txt center pad-20",
+									"size": "full",
+									"action": "mailto:",
+									"email": "jjefferson@northstateco.com",
+									"method": "post",
+									"enctype": "text/plain"
 								},
-								"contents": [
-									{
-										"config": {
-											"type": "form-contact",
-											"id": "home-contact",
-											"class": "pad-20",
-											"size": "full",
-											"action": "mailto:",
-											"email": "jjefferson@northstateco.com",
-											"method": "post",
-											"enctype": "text/plain"
-										},
-										"contents": null
-									}
-								]
+								"contents": null
 							}
 						]
 					}
