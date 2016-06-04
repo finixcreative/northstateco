@@ -256,7 +256,7 @@
 										"config": {
 											"type": "form-contact",
 											"id": "home-contact",
-											"class": "pad-20",
+											"class": "center pad-20",
 											"size": "full",
 											"action": "mailto:",
 											"email": "jjefferson@northstateco.com",
